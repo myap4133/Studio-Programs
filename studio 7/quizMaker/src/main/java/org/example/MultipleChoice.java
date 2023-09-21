@@ -10,7 +10,7 @@ public class MultipleChoice extends Question{
         choices = options;
     }
 
-    public String getqType() {
+    public String getType() {
         return qType;
     }
 

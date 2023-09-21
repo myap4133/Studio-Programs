@@ -13,7 +13,7 @@ public class Checkbox extends Question{
         choices = options;
     }
 
-    public String getqType() {
+    public String getType() {
         return qType;
     }
 

@@ -7,7 +7,7 @@ public class TrueFalse extends Question{
         super(question, answer);
     }
 
-    public String getqType() {
+    public String getType() {
         return qType;
     }
 
